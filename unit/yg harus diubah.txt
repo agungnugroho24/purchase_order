@@ -1,0 +1,10 @@
+yg harus diubah:
+index (query notif)
+home
+tambahbarang1
+tambahbarang2
+tambahbarang3
+kirim
+delete
+notif
+notif1
